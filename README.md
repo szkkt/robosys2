@@ -14,3 +14,5 @@ count.pyで数字が位置ずつ増えていく中で、素数以外を表示す
 
     rosrun mypkg twice.py
     
+
+# 実行動画
