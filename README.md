@@ -22,6 +22,10 @@ count.pyで数字が１ずつカウントされていく中で、twice.pyを同�
     rosrun mypkg twice.py
     
 
+# 実行例
+
+
+
 # 実行動画
 
 https://youtu.be/maSiojf-RwA
