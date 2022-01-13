@@ -5,9 +5,7 @@ import rospy
 import math
 from std_msgs.msg import Int32
 
-m = 0
 def cb(message):
-    global m
     for i in range(2,message.data):
         if message.data % i == 0:
             rospy.loginfo(message.data)
