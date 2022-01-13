@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#AUTHOR("Ryuichi Ueda and Keita Suzuki")
 
 import rospy
 import math
