@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-
+"""
+Copyright (C) 2022 Ueda Ryuichi,Suzuki Keita All Rights Reserved.
+"""
 import rospy
 import math
 from std_msgs.msg import Int32
