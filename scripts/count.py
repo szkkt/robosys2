@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#AUTHOR("Ryuichi Ueda") 
 
 import rospy
 from std_msgs.msg import Int32
